@@ -6,9 +6,7 @@ color a
 
 cls
 
-@echo This batch file will Fix the issue of not being able to interact with the taskbar or desktop, by ending and then restarting Windows explorer for you... 
-
-@echo This should be more convenient than having to use task manager every time your Desktop decides to die on you.
+@echo This batch file will Fix the issue of not being able to interact with the taskbar or desktop, by ending and then restarting Windows explorer for you...
 
 pause
 
